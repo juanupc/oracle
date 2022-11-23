@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{EA9F6BAA-79E1-4959-944C-048CC1DB072E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{283FF9AC-7513-4A59-AE43-5F8B09B1430D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{9ECF20DA-D6B1-4EDC-B682-7C118888B87E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA9F6BAA-79E1-4959-944C-048CC1DB072E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9F6BAA-79E1-4959-944C-048CC1DB072E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9F6BAA-79E1-4959-944C-048CC1DB072E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9F6BAA-79E1-4959-944C-048CC1DB072E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283FF9AC-7513-4A59-AE43-5F8B09B1430D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283FF9AC-7513-4A59-AE43-5F8B09B1430D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283FF9AC-7513-4A59-AE43-5F8B09B1430D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283FF9AC-7513-4A59-AE43-5F8B09B1430D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECF20DA-D6B1-4EDC-B682-7C118888B87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECF20DA-D6B1-4EDC-B682-7C118888B87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECF20DA-D6B1-4EDC-B682-7C118888B87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECF20DA-D6B1-4EDC-B682-7C118888B87E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30375302-FB28-4245-885A-6D5D1EC0653D}
+	EndGlobalSection
+EndGlobal

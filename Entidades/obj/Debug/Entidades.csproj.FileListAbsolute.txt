@@ -1,0 +1,6 @@
+C:\Users\juana\source\repos\OracleExample\Entidades\bin\Debug\Entidades.dll
+C:\Users\juana\source\repos\OracleExample\Entidades\bin\Debug\Entidades.pdb
+C:\Users\juana\source\repos\OracleExample\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\juana\source\repos\OracleExample\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\juana\source\repos\OracleExample\Entidades\obj\Debug\Entidades.dll
+C:\Users\juana\source\repos\OracleExample\Entidades\obj\Debug\Entidades.pdb
